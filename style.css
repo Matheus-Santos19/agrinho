@@ -1,0 +1,17 @@
+body{
+    margin:0px;
+    padding:opx;
+}
+
+
+header{
+    background-color: rgb(25, 0, 255);
+    color: whitesmoke;
+    height: 6em;
+
+
+header h1{
+    font-size: 34px;
+    text-align:center;
+    font-family:sans-serif;
+}
